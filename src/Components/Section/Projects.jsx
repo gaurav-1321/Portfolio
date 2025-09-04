@@ -27,7 +27,7 @@ const Projects = () => {
       description:
         "A personal portfolio website built with React and Tailwind CSS to showcase projects, skills, and experience. It features responsive design, smooth and reusable components for scalability.",
         tech:["React.js","Tailwind Css"],
-        github:"https://github.com/gaurav-1321/React-Project"
+        github:"https://github.com/gaurav-1321/Portfolio"
 
     }
   ];
